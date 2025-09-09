@@ -1,4 +1,4 @@
-# Project Requirements: Pangea
+# Pangea: The On-Chain Asset Registry
 ## 1. Overview
 This document outlines the functional and technical requirements for "Pangea," a platform designed to tokenize real-world assets (e.g., houses, cars, collectibles) on the Polkadot network. The system will leverage smart contracts to manage asset ownership and transactions, and an off-chain storage solution for immutable, digitally signed PDF documents containing the asset's detailed metadata which uniquely identifies the asset.
 
